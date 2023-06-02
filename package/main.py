@@ -12,4 +12,4 @@ def counter():
 start = db.dual_Blade()
 counter()
 while True:
-    start.script3()
+    start.script4()
